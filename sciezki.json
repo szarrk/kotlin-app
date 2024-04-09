@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "nazwa": "Szlak Górski",
+    "opis": "Piękny szlak górski o długości 10 km, który prowadzi przez malownicze doliny i wzniesienia. Idealny dla miłośników przyrody i górskich widoków."
+  },
+  {
+    "id": 2,
+    "nazwa": "Szlak Nadmorski",
+    "opis": "Przyjemny szlak nadmorski o długości 8 km, który prowadzi wzdłuż wybrzeża, oferując piękne widoki na morze i plaże. Idealny na spacery."
+  },
+  {
+    "id": 3,
+    "nazwa": "Szlak Leśny",
+    "opis": "Cichy i spokojny szlak leśny o długości 5 km, który prowadzi przez gęste lasy i dzikie tereny. Doskonały dla miłośników przyrody i obserwatorów ptaków."
+  },
+  {
+    "id": 4,
+    "nazwa": "Szlak Nizinny",
+    "opis": "Malowniczy szlak nizinny o długości 14 km, w sam raz dla amatorów długich, pieszych wycieczek. Ta trasa spodoba się szczególnie miłośnikom śpiewu ptaków i krajobrazów."
+  },
+  {
+    "id": 5,
+    "nazwa": "Szlak Jezior",
+    "opis": "Malowniczy szlak jeziorowy o długości 12 km, który prowadzi wokół pięknych jezior i stawów. Idealny na wędkowanie i obserwację ptaków wodnych."
+  },
+  {
+    "id": 6,
+    "nazwa": "Szlak Geologiczny",
+    "opis": "Tajemniczy szlak geologiczny o długości 15 km, który prowadzi przez tereny z licznymi formacjami wulkanicznymi. Doskonały dla entuzjastów geologii."
+  },
+  {
+    "id": 7,
+    "nazwa": "Szlak Rzeczny",
+    "opis": "Urokliwy szlak rzeczny o długości 7 km, który prowadzi wzdłuż brzegów malowniczych rzek i strumieni. Idealny na spływy kajakowe i pikniki nad wodą."
+  },
+  {
+    "id": 8,
+    "nazwa": "Szlak Wulkaniczny",
+    "opis": "Fascynujący szlak wulkaniczny o długości 20 km, który prowadzi przez obszary bogate w stożki wulkaniczne i kratery. Doskonały dla pasjonatów geologii i historii naturalnej."
+  },
+  {
+    "id": 9,
+    "nazwa": "Szlak Wodospadowy",
+    "opis": "Wspaniały szlak wodospadowy o długości 18 km, który prowadzi przez obszary z licznymi wodospadami i strumieniami. Idealny na fotografowanie i relaksujące spacery."
+  },
+  {
+    "id": 10,
+    "nazwa": "Szlak Kamienisty",
+    "opis": "Trudny szlak kamienisty o długości 25 km, który prowadzi przez górzyste tereny z licznymi skałami i urwiskami. Wybór dla doświadczonych wędrowców i miłośników ekstremalnych wyzwań."
+  },
+  {
+    "id": 11,
+    "nazwa": "Szlak Słoneczny",
+    "opis": "Przyjemny szlak słoneczny o długości 10 km, który prowadzi przez pola uprawne i łąki. Doskonały na spacery rodzinne i pikniki."
+  },
+  {
+    "id": 12,
+    "nazwa": "Szlak Górski II",
+    "opis": "Malowniczy szlak górski o długości 12 km, który prowadzi przez wysokie szczyty i doliny. Idealny dla wędrówek i obserwacji dzikiej przyrody."
+  },
+  {
+    "id": 13,
+    "nazwa": "Szlak Przełęczowy",
+    "opis": "Wyzwający szlak przełęczowy o długości 30 km, który prowadzi przez wąwozy i przełęcze górskie. Wybór dla odważnych wędrowców i miłośników ekstremalnych terenów."
+  },
+  {
+    "id": 14,
+    "nazwa": "Szlak Pustynny",
+    "opis": "Tajemniczy szlak pustynny o długości 22 km, który prowadzi przez piaski i wydmy. Doskonały dla miłośników przyrody i fascynatów pustynnych krajobrazów."
+  },
+  {
+    "id": 15,
+    "nazwa": "Szlak Wspinaczkowy",
+    "opis": "Wyzwaniający szlak wspinaczkowy o długości 15 km, który prowadzi przez skały i urwiska. Idealny dla doświadczonych wspinaczy i pasjonatów górskich wyzwań."
+  }
+]
